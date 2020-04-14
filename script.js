@@ -23,6 +23,6 @@ function toonAlbum(){
   } else if (this === albumDrie) {
     videoEen.setAttribute("src", "slide3/simongarfunkel.mp4");
   } else if (this === albumVier) {
-    videoEen.setAttribute("src", "slide3/davidbowie.mp4");
+    videoEen.setAttribute("src", "slide3/davidbowie2.mp4");
   }
 }
